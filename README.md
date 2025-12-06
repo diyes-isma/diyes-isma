@@ -1,2 +1,1 @@
-- Hi here👋 ! My name is Ismaïla
-- You can find attached some documents that I share concerning academic or personal projects
+- Hi here👋 ! Welcome to my personal GitHub.
